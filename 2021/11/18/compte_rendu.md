@@ -1,5 +1,5 @@
 # Taches réalisés:
-*La matinée:*
-Présentation et rencontre entre les collégues
-*L'après midi:*
-Jetter un coup d'oeil sur le brief
+*La matinée:*<br>
+Présentation et rencontre entre les collégues<br>
+*L'après midi:*<br>
+Jetter un coup d'oeil sur le brief<br>
