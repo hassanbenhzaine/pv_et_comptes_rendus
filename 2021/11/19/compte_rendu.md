@@ -1,4 +1,4 @@
-# Taches réasliés:
+# Taches réalisés:
     Documentation sur:
     * Collections (HashSet, HashMap, LinkedList, ArrayList)
     * Wrapper class

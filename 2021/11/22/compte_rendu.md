@@ -1,4 +1,4 @@
-# Taches réasliés:
+# Taches réalisés:
     Documentation sur:
     * I/O des fichiers
     * Différances entre (byte stream, character stream, buffered stream)
