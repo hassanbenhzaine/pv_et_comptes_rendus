@@ -1,27 +1,27 @@
 *Nom développeur: Hassan Benhzaine* - Daily meeting<br><br>
 
-# @Hassan Benhzaine
+# Hassan Benhzaine
 
-*Taches réalisés:*<br><br>
-    Documentation sur:
-    * I/O des fichiers
-    * Différances entre (byte stream, character stream, buffered stream)
-    * Différances entre le sign de comparaison == et la function .equals()
-    * Exceptions checked et unchecked et le Try Catch block
-    * Difinitons de AOT vs JIT compiler
+*Taches réalisés:*<br>
+    Documentation sur:<br>
+    * I/O des fichiers<br>
+    * Différances entre (byte stream, character stream, buffered stream)<br>
+    * Différances entre le sign de comparaison == et la function .equals()<br>
+    * Exceptions checked et unchecked et le Try Catch block<br>
+    * Difinitons de AOT vs JIT compiler<br>
     * Conventions de nomination des classes, interfaces, variables...
 
-*Taches en cours:*<br><br>
-    Documentation sur:
-    * Java classPath  c'est quoi?
-    * Variable primitif vs variable référence
-    * String Immutable
+*Taches en cours:*<br>
+    Documentation sur:<br>
+    * Java classPath  c'est quoi?<br>
+    * Variable primitif vs variable référence<br>
+    * String Immutable<br>
     * String literal
 
-# @Abdelilah Zroud 
+# Abdelilah Zroud 
 
-# @Jamal Eddine Elidrissi Yassir
+# Jamal Eddine Elidrissi Yassir
 
-# @Othmane boudiab
+# Othmane boudiab
 
 

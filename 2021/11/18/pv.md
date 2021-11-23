@@ -1,14 +1,14 @@
 *Nom développeur: Hassan Benhzaine* - Daily meeting<br><br>
 
-# @Hassan Benhzaine
+# Hassan Benhzaine
 
-*Taches réalisés:*<br><br>
+*Taches réalisés:*<br>
     * Présentation et rencontre entre les collégues
 
-# @Abdelilah Zroud 
+# Abdelilah Zroud 
 
-# @Jamal Eddine Elidrissi Yassir
+# Jamal Eddine Elidrissi Yassir
 
-# @Othmane boudiab
+# Othmane boudiab
 
 
