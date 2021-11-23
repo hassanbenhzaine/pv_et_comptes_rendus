@@ -9,5 +9,7 @@
 
 # Taches en cours:
     * Java classPath  c'est quoi?
-    * ....
+    * Variable primitif vs variable référence
+    * String Immutable
+    * String literal
     

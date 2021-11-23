@@ -1,10 +1,23 @@
-P.V
-Date: 19-11-2021
-Nom developpeur: Hassan Benhzaine
+*Nom développeur: Hassan Benhzaine* - Daily meeting<br><br>
 
-Taches réasliés: Découverture des different IDE (eclipse, intellij), et les version JDK
-aussi les mots technique dans le monde Java, c'est quoi JVM, JDK, JRE...
+# @Hassan Benhzaine
 
-Taches en cours: brief de découverte de Java (Les variables, les Conditions, les
-Boucles, les Collections, les Fonctions)
+*Taches réalisés:*<br><br>
+    Documentation sur:
+    * Collections (HashSet, HashMap, LinkedList, ArrayList)
+    * Wrapper class
+    * Packages
+    * Generics
+
+*Taches en cours:*<br><br>
+    * Voir les autres collections (Vector...)
+    * Explorer les interfaces List, Set, Map, Itterator, Itrable
+    * I/O des fichiers
+
+# @Abdelilah Zroud 
+
+# @Jamal Eddine Elidrissi Yassir
+
+# @Othmane boudiab
+
 
