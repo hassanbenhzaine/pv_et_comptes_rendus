@@ -23,6 +23,27 @@
 
 # Jamal Eddine Elidrissi Yassir
 
+*Done:*<br>
+    Veille:<br>
+        * Les versions de JAVA au fil des annèes<br>
+    Documentation:<br>
+        * Les collections<br>
+        * Pseudo-code<br>
+        * Flow-charts<br>
+        * Streams<br>
+
+*Doign:*<br>
+    Documentation sur:<br>
+        * Master-Mind Algorithm Solution <br>
+    <br>
+    
+*To do:*<br>
+    Documentation sur:<br>
+        * Another Solution To Master-Mind Algorithm  <br>
+        * Collection more deeply <br>
+    <br>
+
+
 # Othmane boudiab
 
 
