@@ -13,6 +13,5 @@
     * Java classPath  c'est quoi?
     * Arrays.listOf  and List.of and Set.of and Map.of
     
-    Brief:
-    * Travaille sur le brief de Master-Mind game
+    Travaille sur le brief de Master-Mind game
     
